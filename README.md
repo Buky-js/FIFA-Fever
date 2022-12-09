@@ -23,7 +23,7 @@ https://cdn.jsdelivr.net/npm/foundation-sites@6.7.5/dist/css/foundation.min.css"
 MIT License
 
 ## Collaborators
-Bamidele Talabi 
-Marie-dale Pais 
-Olubukola Abiona
-Oluwabusayo “Victoria” Arowosafe
+* Bamidele Talabi 
+* Marie-dale Pais 
+* Olubukola Abiona
+* Oluwabusayo “Victoria” Arowosafe
