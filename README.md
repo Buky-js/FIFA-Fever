@@ -13,11 +13,17 @@ Deployed Website URL:
 
 ## Credits
 APIs used are
+
 https://apifootball.com/ - To fetch Standings, Players and their images
 
 https://www.googleapis.com/youtube/v3/search?key=AIzaSyAkAFBRWHBPFD-SrUl3zqmdtQqSYrTSB_k    - To fetch Video Highlights
 
 https://cdn.jsdelivr.net/npm/foundation-sites@6.7.5/dist/css/foundation.min.css" crossorigin="anonymous - Foundation Framework
+
+## URLs
+The URL of the deployed application is: https://buky-js.github.io/FIFA-Fever/
+
+The URL of the GitHub repository containing the code is: https://github.com/Buky-js/FIFA-Fever
 
 ## License
 MIT License
